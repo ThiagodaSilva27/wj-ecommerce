@@ -1,0 +1,19 @@
+{
+  "tipos": [
+    {
+      "id": 1,
+      "name": "Roupas",
+      "path": "roupas"
+    },
+    {
+      "id": 2,
+      "name": "Sapatos",
+      "path": "sapatos"
+    },
+    {
+      "id": 3,
+      "name": "Acessórios",
+      "path": "acessorios"
+    }
+  ]
+}
