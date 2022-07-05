@@ -18,7 +18,7 @@ const addElements = () => {
 
   const article = document.createElement("article");
   article.innerHTML = `
-    <h3>Seja Bem Vindo!</h3>
+    <h3 id="titleArticle">Seja Bem Vindo!</h3>
     <p id="textoApresentacao"></p>`
     document.getElementById('sectionChangeableBody').appendChild(article);
     document.getElementById("textoApresentacao").innerHTML = msg;
